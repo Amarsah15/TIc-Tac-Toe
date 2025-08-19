@@ -2,6 +2,10 @@
 
 A classic **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. Challenge your friends in a responsive and cleanly designed browser game!
 
+# Demo
+
+You can view the live demo of the Weather App [here](https://tic-tac-toe-three-lac-50.vercel.app/).
+
 ## 🎮 Features
 
 - ✅ Two-player game functionality
